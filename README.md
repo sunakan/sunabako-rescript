@@ -14,5 +14,5 @@
 ### cp command
 
 ```
-$ cp -aRf 00-templates 01-rescript-express-sample
+$ cp -aRf 00-templates 01-express-sample
 ```
